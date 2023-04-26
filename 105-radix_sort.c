@@ -21,7 +21,6 @@ int get_max(int *array, int size)
 		if (array[i] > max)
 			max = array[i];
 	}
-	
 	return (max);
 }
 
